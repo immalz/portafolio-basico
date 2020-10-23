@@ -275,7 +275,7 @@ section .title::after{
 .services .title::after,
 .teams .title::after{
     background: #111;
-    content: "what i provide";
+    content: "Que puedo ofrecer";
 }
 .services .serv-content .card{
     width: calc(33% - 20px);
@@ -312,7 +312,7 @@ section .title::after{
 /* skills section styling */
 
 .skills .title::after{
-    content: "what i know";
+    content: "Que conozco";
 }
 .skills .skills-content .column{
     width: calc(50% - 30px);
@@ -449,7 +449,7 @@ section .title::after{
 
 /* contact section styling */
 .contact .title::after{
-    content: "get in touch";
+    content: "hagamos equipo";
 }
 .contact .contact-content .column{
     width: calc(50% - 30px);
